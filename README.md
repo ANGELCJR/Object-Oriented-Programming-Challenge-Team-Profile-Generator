@@ -37,7 +37,7 @@ As a manager of a team, you would enjoy using this application to generate a web
 
 To use this application, clone the repository to your local machine:
 ```
-git clone git@github.com:Tonycodesnow/Team-Pro-Gen.git
+
 ```
 
 Then, ensure you install the dependencies with command:
