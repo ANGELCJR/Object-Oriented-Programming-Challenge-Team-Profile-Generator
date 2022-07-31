@@ -43,7 +43,7 @@ https://github.com/ANGELCJR/Object-Oriented-Programming-Challenge-Team-Profile-G
 
 ## Languages
 
-JavaScript, Bootstrap, Google Fonts, Material Icons, HTML, CSS, Node, Inquirer, Jest <br />
+JavaScript,  Node, Inquirer,
 
 
 ## License
