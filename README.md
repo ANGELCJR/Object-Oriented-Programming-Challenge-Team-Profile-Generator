@@ -27,6 +27,14 @@ This is my Node.js command-line application that takes in information about empl
 ## Installation
 To install all the dependencies, use the command below:
 npm i
+
+## Demo
+
+
+https://user-images.githubusercontent.com/79959345/182043055-0e2bf76d-80dd-4d0d-9727-53dfe768b755.mp4
+
+
+
 ## Usage
 
 To use this application, clone the repository to your local machine:
