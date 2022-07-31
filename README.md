@@ -9,16 +9,13 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Demos](#demos)
+- [Demo](#demo)
 - [Deployed](#deployedapplicationlink)
 - [Languages](#languages)
 - [License](#license)
 - [Tests](#tests)
 - [Questions](#questions)
 
-<br />
-<br />
 
 ## Description
 
