@@ -29,35 +29,13 @@ To install all the dependencies, use the command below:
 npm i
 ## Usage
 
-As a manager of a team, you would enjoy using this application to generate a webpage that displays your team's basic information so that you can quickly access their emails and GitHub profiles 
-
 To use this application, clone the repository to your local machine:
 
-
 Then, ensure you install the dependencies with command:
-
 npm i
-
 When you're ready to run the application, from the root folder, type the below into your command line:
-
 node index
-
-
 Once the application runs, it will generate an index.html file in the "dist" folder. If you already have an index.html file in that folder, it will first prompt you to overwrite it or not.
-
-## Screenshots
-
-What the tests passing looks like:
-
-<p align="center"><img src="./dist/media/alltests.png" width="40%"></p>  <br /> 
-
-What the command line interface looks like:
-
-<p align="center"><img src="./dist/media/screenshot.png" width="35%"></p> <br /> 
-
-What the index.html file looks like once complete:
-
-<p align="center"><img src="./dist/media/livesite.png" width="45%"></p> <br /> 
 
 ## Deployed application link
 
