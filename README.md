@@ -65,16 +65,6 @@ What the index.html file looks like once complete:
 
 <p align="center"><img src="./dist/media/livesite.png" width="45%"></p> <br /> 
 
-## Demos
-
-Click on the link below for a video demonstration of the application and the generated index.html file at the end:
-
-https://www.youtube.com/watch?v=2_dT2A-LKOg
-
-Click on the link below for a video demonstration of the tests passing:
-
-https://youtu.be/2AAz_gekMRY
-
 ## Deployed application link
 
 https://github.com/ANGELCJR/Object-Oriented-Programming-Challenge-Team-Profile-Generator <br />
